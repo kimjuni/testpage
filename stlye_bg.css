@@ -1,0 +1,95 @@
+
+* { 
+    margin: 0;
+    padding: 0;
+    background-color: #FFA07A
+}
+#container{
+   
+    margin :0 auto;
+    width: 1100px;
+    
+    
+}
+
+#logo { 
+    text-align: center;
+    margin: left 50%; ;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 300px ;
+    color: cornsilk;
+
+}
+#arar{
+   
+    width: 1100px ;
+    object-fit: cover;
+}
+
+
+#bg  {
+    position : relative;
+    margin-left: 10px;
+    width: 300px ;
+    height: 450px;
+    object-fit: cover;
+}
+#char  {
+    margin-left: 90px;
+    width: 300px ;
+    height: 450px;
+    object-fit: cover;
+    display: block;
+}
+#song{
+    margin-left: 90px;
+    margin-right: 10px;
+    width: 300px ;
+    height: 450px;
+    object-fit: cover;
+}
+.aw{
+    margin-left: 50%;
+    font-size: 20px;
+}
+
+#table form{
+    margin: auto;
+
+}
+.myButton {
+    margin-left :40%;
+	box-shadow:inset 0px 0px 14px -3px #f2fadc;
+	background:linear-gradient(to bottom, #dbe6c4 5%, #9ba892 100%);
+	background-color:#dbe6c4;
+	border-radius:4px;
+	border:2px solid #b2b8ad;
+	display:inline-block;
+	cursor:pointer;
+	color:#757d6f;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:12px 50px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ced9bf;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #9ba892 5%, #dbe6c4 100%);
+	background-color:#9ba892;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+#bga{
+    font-size: 50px ;
+    font-weight: bolder ;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+ #bgb {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
